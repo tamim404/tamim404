@@ -1,4 +1,4 @@
-````markdown
+
 # 👋 Hi, I'm Tamim Hosen
 
 ### 🛡️ Cybersecurity Analyst | SOC | VAPT | Threat Hunting | Red Team
